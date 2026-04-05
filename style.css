@@ -1,0 +1,10 @@
+body {
+background: linear-gradient(135deg, #c2e9fb, #a1c4fd);
+font-family: Arial;
+}
+
+h2 {
+color: #4a47a3;
+border-bottom: 3px solid #a1c4fd;
+padding-bottom: 5px;
+}
